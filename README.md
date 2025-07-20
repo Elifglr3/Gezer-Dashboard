@@ -28,10 +28,19 @@ Power BI kullanılarak **GEZER markasına** ait satış ve müşteri verileri an
 
 ## 📄 PDF Rapor (Görsel Sunum)
 
-Dashboard’un görselleştirilmiş hali PDF olarak GitHub’a eklenmiştir:  
+Dashboard’un görselleştirilmiş hali GitHub’a eklenmiştir:  
 
-[GEZER_Rapor](gezer-dashboard-image.pdf)
+![1](gezer-dashboard-1.png)
 
+![2](gezer-dashboard-2.png)
+
+![3](gezer-dashboard-3.png)
+
+![4](gezer-dashboard-4.png)
+
+![5](gezer-dashboard-5.png)
+
+![6](gezer-dashboard-6.png)
 ---
 
 ## 🛠 Kullanılan Teknolojiler
